@@ -1,3 +1,5 @@
+## used generative AI for gui ###
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 from dataHandler import ExpenseDataHandler
